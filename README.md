@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project exploring customer purchasing behavior using **Python**, **SQL**, and **Power BI**.
 
-![Dashboard Preview](dashboard_preview.png)
+![Project Workflow](https://raw.githubusercontent.com/awsdevopsrony1/customer-trends-data-analysis-SQL-Python-PowerBI/main/Workflow_Diagram)
 
 ---
 
@@ -137,9 +137,7 @@ Contributions and suggestions are welcome! Feel free to open an issue or submit 
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
